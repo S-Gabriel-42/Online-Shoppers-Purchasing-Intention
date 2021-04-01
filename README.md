@@ -1,1 +1,5 @@
-"# Online-Shoppers-Purchasing-Intention" 
+Online Shoppers Purchasing Intention
+
+For the ecommerce platform, one of the most important questions they want to know is, whether the customer is just browsing or actually buying. Why is it important? Because customers are heterogeneous and you don’t want to treat them in the same way because you always want to leverage your limited resources to find and keep the best customers. If you have increased confidence that a subset of users are more likely to purchase, you can take proactive actions, such as offering time-limited coupons, or even one-month free trial like what Amazon is doing, to push the users to complete their purchases. At the end of the day, this will help the sellers target the right customers, improve retention and ultimately increase sales and profits.
+
+The dataset is from UCI Machine Learning Repository (https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset) and it was collected from an online bookstore. This dataset includes 12,300 instances and each instance is a session that belongs to a different user in a 1-year period
